@@ -22,12 +22,12 @@ To run **Metalink** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/md-irfan-hasan-fahim/metalink.git
+sudo git clone https://github.com/md-irfan-hasan-fahim/NFT-website.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/md-irfan-hasan-fahim/metalink.git
+git clone https://github.com/md-irfan-hasan-fahim/NFT-website.git
 ```
 
